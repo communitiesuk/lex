@@ -36,7 +36,7 @@ This project uses OpenAI via Azure rather than calling OpenAI services directly.
 
 **1. Clone this repository:**
 ```bash
-git clone https://github.com/i-dot-ai/lex.git
+git clone https://github.com/communitiesuk/lex.git
 cd lex
 ```
 
